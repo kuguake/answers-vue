@@ -1,0 +1,45 @@
+{
+	"status":200,
+	"data":[{
+		"id":4,
+		"question":"我爸是谁？",
+		"answer1":"A.钢为网",
+		"answer2":"B.李刚",
+		"answer3":"C.不锈钢",
+		"belong":2,
+		"truth":"B"
+	},{
+		"id":5,
+		"question":"在钢为网的官网，哪里可以看到掌柜指数？",
+		"answer1":"A.哪里都能看到",
+		"answer2":"B.行情圈 ",
+		"answer3":"C.掌柜家里",
+		"belong":2,
+		"truth":"C"
+	},{
+		"id":6,
+		"question":"钢为网目前在全国有几个银牌服务中心？",
+		"answer1":"A.11",
+		"answer2":"B.36",
+		"answer3":"C.0",
+		"belong":2,
+		"truth":"C"
+	},{
+		"id":7,
+		"question":"下列哪个选项不是钢为网的微信名称？",
+		"answer1":"A.钢为网",
+		"answer2":"B.钢为早知道",
+		"answer3":"C.钢为人",
+		"belong":2,
+		"truth":"C"
+	},{
+		"id":8,
+		"question":"在哪个公众号下回复城市名称即可获得该城市当日的掌柜指数？",
+		"answer1":"A.钢为网",
+		"answer2":"B.钢为早知道",
+		"answer3":"C.钢为掌柜",
+		"belong":2,
+		"truth":"C"
+	}
+	]
+}

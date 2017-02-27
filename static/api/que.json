@@ -1,0 +1,29 @@
+{
+	"status":200,
+	"data":[{
+		"id":1,
+		"question":"钢为网总部在哪里？",
+		"answer1":"A.Stark大厦",
+		"answer2":"B.杭州",
+		"answer3":"C.地球",
+		"belong":1,
+		"truth":"B"
+	},{
+		"id":2,
+		"question":"钢为网的前身叫什么名字？",
+		"answer1":"A.为钢网",
+		"answer2":"B.前钢为网 ",
+		"answer3":"C.中国钢铁现货网",
+		"belong":1,
+		"truth":"C"
+	},{
+		"id":3,
+		"question":"钢为掌柜服务有几式？",
+		"answer1":"A.81",
+		"answer2":"B.72",
+		"answer3":"C.9",
+		"belong":1,
+		"truth":"C"
+	}
+	]
+}
